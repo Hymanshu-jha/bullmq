@@ -1,0 +1,15 @@
+
+
+
+
+{
+  "name": "khanzaman!!",
+  "password": "supersecure123",
+  "phone": "8591227854",
+  "email": "himanshujhaa212@gmail.com"
+}
+
+
+{
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY4MjczNTEyOGVhMjJiNzdlYzA3MjAzZSIsImVtYWlsIjoiaGltYW5zaHVqaGFhMjEyQGdtYWlsLmNvbSIsImlhdCI6MTc0NzM5OTk1NCwiZXhwIjoxNzQ3NDg2MzU0fQ.tvXKgKFIwNp1nOpaJplkQ9PLl7xtzVSldONCOhBqD8k"
+}
