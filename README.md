@@ -6,13 +6,12 @@ This project implements a modern email verification system commonly used in acco
 
 ## Features
 
-- Email verification via 6-digit code or link
+- Email verification via link
 - Nodemailer for sending HTML emails
 - Background email job queue with BullMQ and Redis
 - JWT-based secure token handling
 - Cookie-based session management
 - Environment-based configuration
-- Rate-limiting and job retry support
 
 ---
 
